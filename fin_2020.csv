@@ -1,0 +1,657 @@
+Network,School ID,School Name,Total,Bilingual N,Bilingual %,SpED N,SpED %,Economically Disadvantaged N,Economically Disadvantaged %
+Network 1,610212,Albany Park Multicultural Academy,  252 ,  70 ,27.8%,  40 ,15.9%,  230 ,91.3%
+Network 1,610209,Alessandro Volta Elementary School,  797 ,  525 ,65.9%,  77 ,9.7%,  660 ,82.8%
+Network 1,609836,Arthur E Canty Elementary School,  804 ,  153 ,19.0%,  102 ,12.7%,  383 ,47.6%
+Network 1,610083,Daniel C Beard Elementary School,  245 ,  105 ,42.9%,  138 ,56.3%,  126 ,51.4%
+Network 1,609901,Edgebrook Elementary School,  508 ,  39 ,7.7%,  56 ,11.0%,  67 ,13.2%
+Network 1,610523,Edison Park Elementary School,  562 ,  44 ,7.8%,  95 ,16.9%,  85 ,15.1%
+Network 1,610137,Ernst Prussing Elementary School,  721 ,  245 ,34.0%,  92 ,12.8%,  470 ,65.2%
+Network 1,609874,Everett McKinley Dirksen Elementary School,  941 ,  517 ,54.9%,  103 ,11.0%,  669 ,71.1%
+Network 1,610163,Frederick Stock Elementary School,  260 ,  18 ,6.9%,  124 ,47.7%,  37 ,14.2%
+Network 1,609857,Grover Cleveland Elementary School,  538 ,  211 ,39.2%,  157 ,29.2%,  439 ,81.6%
+Network 1,610182,Hannah G Solomon Elementary School,  365 ,  129 ,35.3%,  76 ,20.8%,  186 ,51.0%
+Network 1,609972,Helge A Haugan Elementary School,  966 ,  545 ,56.4%,  162 ,16.8%,  804 ,83.2%
+Network 1,609798,Hiram H Belding Elementary School,  596 ,  124 ,20.8%,  78 ,13.1%,  324 ,54.4%
+Network 1,609912,James B Farnsworth Elementary School,  613 ,  243 ,39.6%,  168 ,27.4%,  391 ,63.8%
+Network 1,609796,Jean Baptiste Beaubien Elementary School,"  1,050 ",  158 ,15.1%,  121 ,11.5%,  440 ,41.9%
+Network 1,610089,John B Murphy Elementary School,  573 ,  192 ,33.5%,  86 ,15.0%,  366 ,63.9%
+Network 1,609937,John W Garvy Elementary School,  805 ,  188 ,23.4%,  83 ,10.3%,  309 ,38.4%
+Network 1,610159,Jonathan Y Scammon Elementary School,  720 ,  310 ,43.1%,  82 ,11.4%,  665 ,92.4%
+Network 1,610127,Mary Gage Peterson Elementary School,  906 ,  322 ,35.5%,  114 ,12.6%,  571 ,63.0%
+Network 1,609792,Newton Bateman Elementary School,  973 ,  334 ,34.3%,  129 ,13.3%,  676 ,69.5%
+Network 1,609810,Norman A Bridge Elementary School,"  1,142 ",  308 ,27.0%,  139 ,12.2%,  652 ,57.1%
+Network 1,610354,North River Elementary School,  300 ,  151 ,50.3%,  75 ,25.0%,  227 ,75.7%
+Network 1,610099,Norwood Park Elementary School,  448 ,  28 ,6.3%,  48 ,10.7%,  73 ,16.3%
+Network 1,610105,Oriole Park Elementary School,  725 ,  56 ,7.7%,  64 ,8.8%,  170 ,23.5%
+Network 1,609988,Patrick Henry Elementary School,  552 ,  282 ,51.1%,  94 ,17.0%,  473 ,85.7%
+Network 1,610145,Peter A Reinberg Elementary School,  781 ,  315 ,40.3%,  157 ,20.1%,  642 ,82.2%
+Network 1,610135,Portage Park Elementary School,  873 ,  175 ,20.1%,  133 ,15.2%,  604 ,69.2%
+Network 1,610155,Sauganash Elementary School,  665 ,  89 ,13.4%,  52 ,7.8%,  147 ,22.1%
+Network 1,609794,Thomas A Edison Regional Gifted Center ES,  264 ,  1 ,0.4%,  10 ,3.8%,  21 ,8.0%
+Network 1,610230,Wildwood IB World Magnet School,  485 ,  28 ,5.8%,  49 ,10.1%,  57 ,11.8%
+Network 1,609884,William E Dever Elementary School,  745 ,  246 ,33.0%,  83 ,11.1%,  429 ,57.6%
+Network 1,609994,William G Hibbard Elementary School,  919 ,  500 ,54.4%,  87 ,9.5%,  807 ,87.8%
+Network 1,610104,William J Onahan Elementary School,  674 ,  68 ,10.1%,  101 ,15.0%,  204 ,30.3%
+Network 1,609949,William P Gray Elementary School,"  1,056 ",  334 ,31.6%,  162 ,15.3%,  887 ,84.0%
+Network 2,609804,Daniel Boone Elementary School,  814 ,  396 ,48.7%,  88 ,10.8%,  730 ,89.7%
+Network 2,609859,DeWitt Clinton Elementary School,"  1,128 ",  628 ,55.7%,  87 ,7.7%,  975 ,86.4%
+Network 2,609918,Eugene Field Elementary School,  146 ,  68 ,46.6%,  32 ,21.9%,  98 ,67.1%
+Network 2,610196,George B Swift Elementary Specialty School,  642 ,  284 ,44.2%,  118 ,18.4%,  495 ,77.1%
+Network 2,610070,James B McPherson Elementary School,  666 ,  195 ,29.3%,  159 ,23.9%,  428 ,64.3%
+Network 2,610269,John T McCutcheon Elementary School,  341 ,  136 ,39.9%,  108 ,31.7%,  321 ,94.1%
+Network 2,609865,Jordan Elementary Community School,  495 ,  268 ,54.1%,  85 ,17.2%,  463 ,93.5%
+Network 2,610242,Joseph Brennemann Elementary School,  411 ,  139 ,33.8%,  84 ,20.4%,  266 ,64.7%
+Network 2,610022,Joyce Kilmer Elementary School,  789 ,  416 ,52.7%,  177 ,22.4%,  639 ,81.0%
+Network 2,610355,Mary E Courtenay Elementary Language Arts Center,  359 ,  71 ,19.8%,  117 ,32.6%,  279 ,77.7%
+Network 2,610011,Minnie Mars Jamieson Elementary School,  895 ,  292 ,32.6%,  129 ,14.4%,  561 ,62.7%
+Network 2,610284,New Field Elementary School,  615 ,  256 ,41.6%,  90 ,14.6%,  483 ,78.5%
+Network 2,610141,Ravenswood Elementary School,  564 ,  72 ,12.8%,  59 ,10.5%,  188 ,33.3%
+Network 2,609880,Stephen Decatur Classical Elementary School,  281 ,  2 ,0.7%,  9 ,3.2%,  45 ,16.0%
+Network 2,609933,Stephen F Gale Elementary Community Academy,  263 ,  71 ,27.0%,  60 ,22.8%,  237 ,90.1%
+Network 2,609976,Stephen K Hayt Elementary School,  915 ,  430 ,47.0%,  129 ,14.1%,  730 ,79.8%
+Network 2,610191,Stone Elementary Scholastic Academy,  615 ,  126 ,20.5%,  54 ,8.8%,  326 ,53.0%
+Network 2,610220,Thomas J Waters Elementary School,  641 ,  64 ,10.0%,  53 ,8.3%,  173 ,27.0%
+Network 2,610363,Walt Disney Magnet Elementary School,"  1,519 ",  187 ,12.3%,  121 ,8.0%,  872 ,57.4%
+Network 3,610533,Dr Jorge Prieto Math and Science,  948 ,  460 ,48.5%,  161 ,17.0%,  868 ,91.6%
+Network 3,609904,Edward K Ellington Elementary School,  497 ,  9 ,1.8%,  86 ,17.3%,  487 ,98.0%
+Network 3,610235,Ella Flagg Young Elementary School,  680 ,  54 ,7.9%,  88 ,12.9%,  665 ,97.8%
+Network 3,610165,Franz Peter Schubert Elementary School,  666 ,  422 ,63.4%,  85 ,12.8%,  617 ,92.6%
+Network 3,610305,George Leland Elementary School,  358 ,  2 ,0.6%,  53 ,14.8%,  330 ,92.2%
+Network 3,610068,Hanson Park Elementary School,"  1,388 ",  633 ,45.6%,  251 ,18.1%,"  1,264 ",91.1%
+Network 3,610158,Harriet E Sayre Elementary Language Academy,  438 ,  52 ,11.9%,  55 ,12.6%,  274 ,62.6%
+Network 3,610092,Henry H Nash Elementary School,  242 ,  5 ,2.1%,  34 ,14.1%,  188 ,77.7%
+Network 3,609975,John Hay Elementary Community Academy,  305 ,  12 ,3.9%,  41 ,13.4%,  299 ,98.0%
+Network 3,610043,Joseph Lovett Elementary School,  344 ,  24 ,7.0%,  30 ,8.7%,  301 ,87.5%
+Network 3,610041,Josephine C Locke Elementary School,"  1,266 ",  498 ,39.3%,  204 ,16.1%,"  1,042 ",82.3%
+Network 3,609910,Laughlin Falconer Elementary School,"  1,018 ",  404 ,39.7%,  153 ,15.0%,  947 ,93.0%
+Network 3,609818,Luther Burbank Elementary School,  849 ,  436 ,51.4%,  119 ,14.0%,  730 ,86.0%
+Network 3,610046,Mary Lyon Elementary School,"  1,302 ",  543 ,41.7%,  166 ,12.8%,"  1,166 ",89.6%
+Network 3,609830,Milton Brunson Math & Science Specialty ES,  441 ,  21 ,4.8%,  66 ,15.0%,  366 ,83.0%
+Network 3,610051,Northwest Middle School,  555 ,  195 ,35.1%,  81 ,14.6%,  515 ,92.8%
+Network 3,610367,Oscar DePriest Elementary School,  522 ,  11 ,2.1%,  126 ,24.1%,  456 ,87.4%
+Network 3,610183,Spencer Technology Academy,  474 ,  4 ,0.8%,  61 ,12.9%,  415 ,87.6%
+Network 4,609799,Alexander Graham Bell Elementary School,"  1,007 ",  53 ,5.3%,  106 ,10.5%,  129 ,12.8%
+Network 4,609963,Alexander Hamilton Elementary School,  499 ,  18 ,3.6%,  57 ,11.4%,  55 ,11.0%
+Network 4,610325,Avondale-Logandale Elementary School,  638 ,  252 ,39.5%,  82 ,12.9%,  597 ,93.6%
+Network 4,609875,Charles R Darwin Elementary School,  575 ,  259 ,45.0%,  97 ,16.9%,  450 ,78.3%
+Network 4,610144,Frank W Reilly Elementary School,  779 ,  362 ,46.5%,  133 ,17.1%,  621 ,79.7%
+Network 4,609930,Frederick Funston Elementary School,  433 ,  215 ,49.7%,  90 ,20.8%,  417 ,96.3%
+Network 4,610010,Friedrich L. Jahn Elementary of the Fine Arts,  348 ,  73 ,21.0%,  70 ,20.1%,  164 ,47.1%
+Network 4,610048,George Manierre Elementary School,  314 ,  4 ,1.3%,  56 ,17.8%,  297 ,94.6%
+Network 4,609974,Hawthorne Elementary Scholastic Academy,  568 ,  24 ,4.2%,  42 ,7.4%,  97 ,17.1%
+Network 4,609850,Horace Greeley Elementary School,  489 ,  130 ,26.6%,  41 ,8.4%,  380 ,77.7%
+Network 4,610078,Inter-American Elementary Magnet School,  720 ,  212 ,29.4%,  80 ,11.1%,  403 ,56.0%
+Network 4,609803,James G Blaine Elementary School,  815 ,  40 ,4.9%,  102 ,12.5%,  107 ,13.1%
+Network 4,610074,James Monroe Elementary School,  768 ,  240 ,31.3%,  117 ,15.2%,  680 ,88.5%
+Network 4,609942,Johann W von Goethe Elementary School,  740 ,  181 ,24.5%,  98 ,13.2%,  459 ,62.0%
+Network 4,609782,John J Audubon Elementary School,  565 ,  28 ,5.0%,  42 ,7.4%,  74 ,13.1%
+Network 4,610033,LaSalle Elementary Language Academy,  524 ,  11 ,2.1%,  71 ,13.6%,  177 ,33.8%
+Network 4,609809,Lorenz Brentano Math & Science Academy ES,  593 ,  69 ,11.6%,  61 ,10.3%,  285 ,48.1%
+Network 4,610094,Louis Nettelhorst Elementary School,  778 ,  94 ,12.1%,  76 ,9.8%,  161 ,20.7%
+Network 4,609774,Louisa May Alcott College Preparatory ES,  689 ,  44 ,6.4%,  76 ,11.0%,  79 ,11.5%
+Network 4,610059,Oscar Mayer Magnet School,  770 ,  23 ,3.0%,  70 ,9.1%,  79 ,10.3%
+Network 4,609853,Salmon P Chase Elementary School,  409 ,  167 ,40.8%,  106 ,25.9%,  348 ,85.1%
+Network 4,609968,Sharon Christa McAuliffe Elementary School,  703 ,  312 ,44.4%,  87 ,12.4%,  584 ,83.1%
+Network 4,610534,Skinner North,  537 ,  1 ,0.2%,  30 ,5.6%,  47 ,8.8%
+Network 4,610095,Walter L Newberry Math & Science Academy ES,  465 ,  28 ,6.0%,  67 ,14.4%,  282 ,60.7%
+Network 4,610136,William H Prescott Elementary School,  465 ,  37 ,8.0%,  67 ,14.4%,  153 ,32.9%
+Network 4,610097,William P Nixon Elementary School,  722 ,  397 ,55.0%,  98 ,13.6%,  611 ,84.6%
+Network 4,610088,Wolfgang A Mozart Elementary School,  556 ,  261 ,46.9%,  75 ,13.5%,  544 ,97.8%
+Network 5,610131,Ambrose Plamondon Elementary School,  130 ,  28 ,21.5%,  19 ,14.6%,  116 ,89.2%
+Network 5,610076,Bernhard Moos Elementary School,  459 ,  130 ,28.3%,  63 ,13.7%,  399 ,86.9%
+Network 5,610005,Charles Evans Hughes Elementary School,  259 ,,,  39 ,15.1%,  241 ,93.1%
+Network 5,610194,Charles Sumner  Math & Science Community Acad ES,  282 ,,,  33 ,11.7%,  245 ,86.9%
+Network 5,609873,Crown Community Academy of Fine Arts Center ES,  224 ,  6 ,2.7%,  46 ,20.5%,  204 ,91.1%
+Network 5,610221,Daniel Webster Elementary School,  237 ,,,  23 ,9.7%,  191 ,80.6%
+Network 5,610073,Ellen Mitchell Elementary School,  405 ,  45 ,11.1%,  41 ,10.1%,  154 ,38.0%
+Network 5,610503,Frazier Prospective IB Magnet ES,  189 ,  1 ,0.5%,  22 ,11.6%,  168 ,88.9%
+Network 5,609854,Frederic Chopin Elementary School,  341 ,  125 ,36.7%,  105 ,30.8%,  316 ,92.7%
+Network 5,610293,Genevieve Melody Elementary School,  400 ,,,  55 ,13.8%,  390 ,97.5%
+Network 5,610202,George W Tilton Elementary School,  299 ,  3 ,1.0%,  22 ,7.4%,  275 ,92.0%
+Network 5,610192,Harriet Beecher Stowe Elementary School,  634 ,  265 ,41.8%,  111 ,17.5%,  600 ,94.6%
+Network 5,609797,Jacob Beidler Elementary School,  355 ,,,  36 ,10.1%,  320 ,90.1%
+Network 5,610044,James Russell Lowell Elementary School,  365 ,  127 ,34.8%,  101 ,27.7%,  342 ,93.7%
+Network 5,610271,Jensen Elementary Scholastic Academy,  381 ,  4 ,1.1%,  46 ,12.1%,  328 ,86.1%
+Network 5,609954,John Milton Gregory Elementary School,  330 ,,,  42 ,12.7%,  320 ,97.0%
+Network 5,610313,Jose De Diego Elementary Community Academy,  523 ,  65 ,12.4%,  78 ,14.9%,  467 ,89.3%
+Network 5,609925,Joseph Kellman Corporate Community ES,  257 ,  1 ,0.4%,  16 ,6.2%,  252 ,98.1%
+Network 5,610133,Laura S Ward Elementary School,  356 ,  15 ,4.2%,  59 ,16.6%,  347 ,97.5%
+Network 5,610034,Lawndale Elementary Community Academy,  200 ,,,  41 ,20.5%,  190 ,95.0%
+Network 5,609907,Leif Ericson Elementary Scholastic Academy,  498 ,  2 ,0.4%,  47 ,9.4%,  429 ,86.1%
+Network 5,610055,Michael Faraday Elementary School,  214 ,  1 ,0.5%,  30 ,14.0%,  207 ,96.7%
+Network 5,610234,Richard Yates Elementary School,  370 ,  134 ,36.2%,  108 ,29.2%,  293 ,79.2%
+Network 5,610056,Roswell B Mason Elementary School,  309 ,  6 ,1.9%,  50 ,16.2%,  306 ,99.0%
+Network 5,610251,Willa Cather Elementary School,  366 ,  9 ,2.5%,  83 ,22.7%,  335 ,91.5%
+Network 5,610123,William Penn Elementary School,  253 ,  16 ,6.3%,  50 ,19.8%,  253 ,100.0%
+Network 6,610229,A.N. Pritzker School,  753 ,  48 ,6.4%,  66 ,8.8%,  288 ,38.3%
+Network 6,610342,Albert R Sabin Elementary Magnet School,  484 ,  99 ,20.5%,  53 ,11.0%,  394 ,81.4%
+Network 6,609947,Alexander Graham Elementary School,  379 ,  66 ,17.4%,  51 ,13.5%,  352 ,92.9%
+Network 6,610060,Andrew Jackson Elementary Language Academy,  506 ,  69 ,13.6%,  44 ,8.7%,  206 ,40.7%
+Network 6,610009,Galileo Math & Science Scholastic Academy ES,  562 ,  101 ,18.0%,  71 ,12.6%,  298 ,53.0%
+Network 6,610062,George B McClellan Elementary School,  345 ,  43 ,12.5%,  79 ,22.9%,  292 ,84.6%
+Network 6,610107,James Otis Elementary School,  381 ,  168 ,44.1%,  118 ,31.0%,  335 ,87.9%
+Network 6,609959,John Charles Haines Elementary School,  641 ,  172 ,26.8%,  28 ,4.4%,  509 ,79.4%
+Network 6,610180,John M Smyth Elementary School,  464 ,  8 ,1.7%,  82 ,17.7%,  436 ,94.0%
+Network 6,609828,Jonathan Burr Elementary School,  462 ,  42 ,9.1%,  54 ,11.7%,  142 ,30.7%
+Network 6,609777,Phillip D Armour Elementary School,  248 ,  59 ,23.8%,  37 ,14.9%,  225 ,90.7%
+Network 6,610138,Pulaski International School of Chicago,  902 ,  131 ,14.5%,  85 ,9.4%,  470 ,52.1%
+Network 6,609979,Robert Healy Elementary School,"  1,368 ",  341 ,24.9%,  57 ,4.2%,"  1,088 ",79.5%
+Network 6,610252,Robert Nathaniel Dett Elementary School,  341 ,  10 ,2.9%,  113 ,33.1%,  330 ,96.8%
+Network 6,610029,Rodolfo Lozano Bilingual & International Ctr ES,  216 ,  83 ,38.4%,  76 ,35.2%,  159 ,73.6%
+Network 6,610405,Suder Montessori Magnet ES,  375 ,  20 ,5.3%,  48 ,12.8%,  188 ,50.1%
+Network 6,609896,Thomas Drummond Elementary School,  347 ,  13 ,3.8%,  31 ,8.9%,  69 ,19.9%
+Network 6,610121,Washington Irving Elementary School,  380 ,  18 ,4.7%,  71 ,18.7%,  326 ,85.8%
+Network 6,609812,William H Brown Elementary School,  214 ,  9 ,4.2%,  57 ,26.6%,  171 ,79.9%
+Network 6,610308,Wilma Rudolph Elementary Learning Center,  90 ,  33 ,36.7%,  86 ,95.6%,  75 ,83.3%
+Network 7,609966,Charles G Hammond Elementary School,  350 ,  156 ,44.6%,  64 ,18.3%,  339 ,96.9%
+Network 7,610063,Cyrus H McCormick Elementary School,  594 ,  298 ,50.2%,  86 ,14.5%,  593 ,99.8%
+Network 7,610227,Eli Whitney Elementary School,  815 ,  431 ,52.9%,  81 ,9.9%,  790 ,96.9%
+Network 7,610215,Francisco I Madero Middle School,  324 ,  109 ,33.6%,  55 ,17.0%,  312 ,96.3%
+Network 7,609920,Gerald Delgado Kanoon Elementary Magnet School,  543 ,  266 ,49.0%,  61 ,11.2%,  525 ,96.7%
+Network 7,610125,Irma C Ruiz Elementary School,  601 ,  216 ,35.9%,  76 ,12.7%,  517 ,86.0%
+Network 7,610216,John A Walsh Elementary School,  302 ,  115 ,38.1%,  79 ,26.2%,  244 ,80.8%
+Network 7,610228,John Greenleaf Whittier Elementary School,  202 ,  124 ,61.4%,  36 ,17.8%,  177 ,87.6%
+Network 7,610184,John Spry Elementary Community School,  424 ,  212 ,50.0%,  45 ,10.6%,  418 ,98.6%
+Network 7,609938,Joseph E Gary Elementary School,"  1,021 ",  508 ,49.8%,  147 ,14.4%,  959 ,93.9%
+Network 7,609872,Manuel Perez Elementary School,  306 ,  112 ,36.6%,  44 ,14.4%,  269 ,87.9%
+Network 7,610017,Maria Saucedo Elementary Scholastic Academy,  995 ,  437 ,43.9%,  139 ,14.0%,  861 ,86.5%
+Network 7,610329,Orozco Fine Arts & Sciences Elementary School,  460 ,  180 ,39.1%,  58 ,12.6%,  402 ,87.4%
+Network 7,609867,Peter Cooper Elementary Dual Language Academy,  440 ,  259 ,58.9%,  75 ,17.1%,  416 ,94.6%
+Network 7,610013,Pilsen Elementary Community Academy,  307 ,  117 ,38.1%,  50 ,16.3%,  280 ,91.2%
+Network 7,609921,Telpochcalli Elementary School,  248 ,  158 ,63.7%,  51 ,20.6%,  211 ,85.1%
+Network 7,609967,William F Finkl Elementary School,  293 ,  143 ,48.8%,  67 ,22.9%,  282 ,96.3%
+Network 8,610317,Brighton Park Elementary School,  375 ,  187 ,49.9%,  49 ,13.1%,  362 ,96.5%
+Network 8,610353,Calmeca Academy of Fine Arts and Dual Language,  753 ,  463 ,61.5%,  105 ,13.9%,  622 ,82.6%
+Network 8,609909,Edward Everett Elementary School,  145 ,  82 ,56.6%,  44 ,30.3%,  135 ,93.1%
+Network 8,610319,Evergreen Academy Middle School,  290 ,  91 ,31.4%,  48 ,16.6%,  270 ,93.1%
+Network 8,610096,Florence Nightingale Elementary School,"  1,170 ",  558 ,47.7%,  182 ,15.6%,"  1,099 ",93.9%
+Network 8,610532,Irene C. Hernandez Middle School for the Advancement of Science,"  1,005 ",  316 ,31.4%,  107 ,10.7%,  958 ,95.3%
+Network 8,609983,James Hedges Elementary School,  568 ,  378 ,66.6%,  88 ,15.5%,  521 ,91.7%
+Network 8,610174,James Shields Elementary School,  660 ,  278 ,42.1%,  82 ,12.4%,  639 ,96.8%
+Network 8,610559,James Shields Middle School,  576 ,  199 ,34.6%,  112 ,19.4%,  555 ,96.4%
+Network 8,609964,John H Hamline Elementary School,  587 ,  325 ,55.4%,  95 ,16.2%,  540 ,92.0%
+Network 8,609876,Nathan S Davis Elementary School,  630 ,  334 ,53.0%,  103 ,16.4%,  613 ,97.3%
+Network 8,609952,Nathanael Greene Elementary School,  399 ,  181 ,45.4%,  42 ,10.5%,  341 ,85.5%
+Network 8,610239,Richard J Daley Elementary Academy,  559 ,  309 ,55.3%,  64 ,11.5%,  532 ,95.2%
+Network 8,610157,Sidney Sawyer Elementary School,"  1,291 ",  517 ,40.1%,  128 ,9.9%,"  1,216 ",94.2%
+Network 8,610226,Socorro Sandoval Elementary School,  920 ,  555 ,60.3%,  80 ,8.7%,  808 ,87.8%
+Network 8,610589,Sor Juana Ines de la Cruz ES,  171 ,  45 ,26.3%,  10 ,5.9%,  83 ,48.5%
+Network 8,609855,Walter S Christopher Elementary School,  363 ,  212 ,58.4%,  193 ,53.2%,  336 ,92.6%
+Network 8,610167,William H Seward Communication Arts Academy ES,  598 ,  295 ,49.3%,  73 ,12.2%,  570 ,95.3%
+Network 9,609951,Ariel Elementary Community Academy,  477 ,  5 ,1.1%,  72 ,15.1%,  376 ,78.8%
+Network 9,610175,Beulah Shoesmith Elementary School,  367 ,  18 ,4.9%,  42 ,11.4%,  263 ,71.7%
+Network 9,609969,Bret Harte Elementary School,  337 ,  16 ,4.8%,  37 ,11.0%,  249 ,73.9%
+Network 9,610590,Bronzeville Classical Elementary School,  201 ,  1 ,0.5%,  6 ,3.0%,  41 ,20.4%
+Network 9,610345,Carter G Woodson South Elementary School,  297 ,  3 ,1.0%,  58 ,19.5%,  226 ,76.1%
+Network 9,610030,Charles Kozminski Elementary Community Academy,  261 ,  5 ,1.9%,  35 ,13.4%,  229 ,87.7%
+Network 9,609819,Edmond Burke Elementary School,  300 ,  5 ,1.7%,  45 ,15.0%,  253 ,84.3%
+Network 9,610246,Edward Beasley Elementary Magnet Academic Center,"  1,117 ",  1 ,0.1%,  90 ,8.1%,  885 ,79.2%
+Network 9,610065,Emmett Louis Till Math and Science Academy,  343 ,,,  57 ,16.6%,  264 ,77.0%
+Network 9,610110,Ida B Wells Preparatory Elementary Academy,  398 ,  1 ,0.3%,  39 ,9.8%,  351 ,88.2%
+Network 9,610276,Irvin C Mollison Elementary School,  294 ,  1 ,0.3%,  26 ,8.8%,  226 ,76.9%
+Network 9,610256,Jackie Robinson Elementary School,  129 ,  1 ,0.8%,  14 ,10.9%,  115 ,89.2%
+Network 9,609891,James R Doolittle Jr Elementary School,  220 ,  5 ,2.3%,  23 ,10.5%,  197 ,89.6%
+Network 9,609894,John B Drake Elementary School,  283 ,  7 ,2.5%,  50 ,17.7%,  259 ,91.5%
+Network 9,609919,John Fiske Elementary School,  412 ,  4 ,1.0%,  46 ,11.2%,  349 ,84.7%
+Network 9,610126,John J Pershing Elementary Humanities Magnet,  585 ,  12 ,2.1%,  63 ,10.8%,  418 ,71.5%
+Network 9,610237,Ludwig Van Beethoven Elementary School,  240 ,,,  38 ,15.8%,  225 ,93.8%
+Network 9,610090,Phillip Murray Elementary Language Academy,  461 ,  10 ,2.2%,  53 ,11.5%,  288 ,62.5%
+Network 9,609987,Thomas A Hendricks Elementary Community Academy,  229 ,  5 ,2.2%,  64 ,28.0%,  218 ,95.2%
+Network 9,610143,William C Reavis Math & Science Specialty ES,  267 ,  9 ,3.4%,  45 ,16.9%,  224 ,83.9%
+Network 9,610142,William H Ray Elementary School,  696 ,  55 ,7.9%,  92 ,13.2%,  291 ,41.8%
+Network 9,609977,Woodlawn Community Elementary School,  207 ,  1 ,0.5%,  18 ,8.7%,  188 ,90.8%
+Network 10,610185,Adlai E Stevenson Elementary School,"  1,210 ",  482 ,39.8%,  213 ,17.6%,"  1,024 ",84.6%
+Network 10,609788,Alice L Barnard Computer Math & Science Ctr ES,  284 ,  1 ,0.4%,  34 ,12.0%,  212 ,74.7%
+Network 10,610084,Annie Keller Regional Gifted Center,  234 ,  6 ,2.6%,  3 ,1.3%,  53 ,22.7%
+Network 10,610287,Ashburn Community Elementary School,  427 ,  34 ,8.0%,  80 ,18.7%,  347 ,81.3%
+Network 10,609871,Barbara Vick Early Childhood & Family Center,  357 ,  69 ,19.3%,  154 ,43.1%,  173 ,48.5%
+Network 10,610087,Blair Early Childhood Center,  243 ,  70 ,28.8%,  179 ,73.7%,  144 ,59.3%
+Network 10,609839,Carroll-Rosenwald Specialty Elementary School,  446 ,  9 ,2.0%,  59 ,13.2%,  362 ,81.2%
+Network 10,609879,Charles Gates Dawes Elementary School,"  1,027 ",  284 ,27.7%,  175 ,17.0%,  931 ,90.7%
+Network 10,610347,Claremont Academy Elementary School,  444 ,  43 ,9.7%,  101 ,22.8%,  405 ,91.2%
+Network 10,610077,Donald Morrill Math & Science Elementary School,  584 ,  222 ,38.0%,  65 ,11.1%,  544 ,93.2%
+Network 10,610352,Durkin Park Elementary School,  681 ,  209 ,30.7%,  98 ,14.4%,  559 ,82.1%
+Network 10,610006,Edward N Hurley Elementary School,  834 ,  345 ,41.4%,  111 ,13.3%,  748 ,89.7%
+Network 10,610195,Elizabeth H Sutherland Elementary School,  651 ,  4 ,0.6%,  81 ,12.4%,  205 ,31.5%
+Network 10,609908,Esmond Elementary School,  236 ,  2 ,0.9%,  37 ,15.7%,  222 ,94.1%
+Network 10,610057,Fairfield Elementary Academy,  547 ,  277 ,50.6%,  54 ,9.9%,  537 ,98.2%
+Network 10,610067,Francis M McKay Elementary School,  703 ,  100 ,14.2%,  107 ,15.2%,  654 ,93.0%
+Network 10,609861,Henry R Clissold Elementary School,  466 ,  7 ,1.5%,  85 ,18.2%,  182 ,39.1%
+Network 10,609893,John C Dore Elementary School,  756 ,  118 ,15.6%,  134 ,17.7%,  354 ,46.8%
+Network 10,610207,John H Vanderpoel Elementary Magnet School,  233 ,,,  24 ,10.3%,  144 ,61.8%
+Network 10,610016,Kate S Kellogg Elementary School,  275 ,  1 ,0.4%,  51 ,18.6%,  104 ,37.8%
+Network 10,609807,Lionel Hampton Fine & Performing Arts ES,  482 ,  123 ,25.5%,  80 ,16.6%,  449 ,93.2%
+Network 10,610206,Mark Twain Elementary School,"  1,070 ",  228 ,21.3%,  116 ,10.8%,  841 ,78.6%
+Network 10,609832,Michael M Byrne Elementary School,  624 ,  83 ,13.3%,  107 ,17.2%,  331 ,53.0%
+Network 10,609960,Nathan Hale Elementary School,  880 ,  177 ,20.1%,  116 ,13.2%,  561 ,63.8%
+Network 10,609981,Phoebe Apperson Hearst Elementary School,  369 ,  114 ,30.9%,  120 ,32.5%,  301 ,81.6%
+Network 10,610588,Robert J. Richardson Middle School,"  1,135 ",  314 ,27.7%,  120 ,10.6%,"  1,089 ",96.0%
+Network 10,609956,Robert L Grimes Elementary School,  458 ,  144 ,31.4%,  59 ,12.9%,  323 ,70.5%
+Network 10,610109,William Bishop Owen Scholastic Academy ES,  281 ,  3 ,1.1%,  38 ,13.5%,  136 ,48.4%
+Network 11,609869,Anna R. Langford Community Academy,  213 ,  2 ,0.9%,  22 ,10.3%,  200 ,93.9%
+Network 11,610037,Arthur A Libby Elementary School,  339 ,  77 ,22.7%,  57 ,16.8%,  275 ,81.1%
+Network 11,609941,Asa Philip Randolph Elementary School,  430 ,  20 ,4.7%,  47 ,10.9%,  416 ,96.7%
+Network 11,610290,Benjamin E Mays Elementary Academy,  342 ,  10 ,2.9%,  56 ,16.4%,  275 ,80.4%
+Network 11,610238,Carrie Jacobs Bond Elementary School,  278 ,  3 ,1.1%,  68 ,24.5%,  267 ,96.0%
+Network 11,609986,Charles R Henderson Elementary School,  244 ,  35 ,14.3%,  32 ,13.1%,  210 ,86.1%
+Network 11,609897,Charles W Earle Elementary School,  324 ,  11 ,3.4%,  53 ,16.4%,  236 ,72.8%
+Network 11,609790,Clara Barton Elementary School,  353 ,  5 ,1.4%,  72 ,20.4%,  329 ,93.2%
+Network 11,610223,Daniel S Wentworth Elementary School,  395 ,  15 ,3.8%,  98 ,24.8%,  352 ,89.1%
+Network 11,610299,Dr. Martin L. King Jr Academy of Social Justice,  239 ,  1 ,0.4%,  40 ,16.7%,  236 ,98.7%
+Network 11,609924,Fort Dearborn Elementary School,  356 ,  1 ,0.3%,  60 ,16.9%,  325 ,91.3%
+Network 11,609927,Foster Park Elementary School,  350 ,  5 ,1.4%,  97 ,27.7%,  294 ,84.0%
+Network 11,610112,Francis W Parker Elementary Community Academy,  444 ,  2 ,0.5%,  53 ,11.9%,  427 ,96.2%
+Network 11,609864,John W Cook Elementary School,  340 ,  2 ,0.6%,  58 ,17.1%,  273 ,80.3%
+Network 11,610019,Joshua D Kershaw Elementary School,  249 ,  2 ,0.8%,  55 ,22.1%,  229 ,92.0%
+Network 11,609793,Lillian R. Nicholson STEM Academy,  459 ,  6 ,1.3%,  64 ,13.9%,  444 ,96.7%
+Network 11,610108,Luke O'Toole Elementary School,  338 ,  28 ,8.3%,  42 ,12.4%,  332 ,98.2%
+Network 11,610369,Mahalia Jackson Elementary School,  371 ,  1 ,0.3%,  81 ,21.8%,  287 ,77.4%
+Network 11,610362,Medgar Evers Elementary School,  265 ,  3 ,1.1%,  30 ,11.3%,  204 ,77.0%
+Network 11,610300,Oliver S Westcott Elementary School,  414 ,  4 ,1.0%,  76 ,18.4%,  324 ,78.3%
+Network 11,609997,Oliver Wendell Holmes Elementary School,  154 ,  5 ,3.3%,  22 ,14.3%,  144 ,93.5%
+Network 11,610003,Paul Cuffe Math-Science Technology Academy ES,  295 ,,,  56 ,19.0%,  273 ,92.5%
+Network 11,609791,Perkins Bass Elementary School,  434 ,  2 ,0.5%,  49 ,11.3%,  424 ,97.7%
+Network 11,610102,Richard J Oglesby Elementary School,  405 ,,,  57 ,14.1%,  373 ,92.1%
+Network 11,609929,Robert Fulton Elementary School,  372 ,  134 ,36.0%,  60 ,16.1%,  326 ,87.6%
+Network 11,609805,Scott Joplin Elementary School,  403 ,,,  59 ,14.6%,  379 ,94.0%
+Network 11,610521,Sir Miles Davis Magnet Elementary Academy,  209 ,  9 ,4.3%,  48 ,23.0%,  176 ,84.2%
+Network 11,610032,Wendell E Green Elementary School,  318 ,,,  66 ,20.8%,  276 ,86.8%
+Network 11,610153,William H Ryder Math & Science Specialty ES,  401 ,  2 ,0.5%,  115 ,28.7%,  299 ,74.6%
+Network 12,610281,Adam Clayton Powell Paideia Community Academy ES,  521 ,  31 ,6.0%,  58 ,11.1%,  440 ,84.5%
+Network 12,610316,Amelia Earhart Options for Knowledge ES,  237 ,,,  17 ,7.2%,  152 ,64.1%
+Network 12,610171,Arnold Mireles Elementary Academy,  459 ,  119 ,25.9%,  56 ,12.2%,  444 ,96.7%
+Network 12,609887,Arthur Dixon Elementary School,  590 ,  5 ,0.9%,  62 ,10.5%,  458 ,77.6%
+Network 12,610268,Arthur R Ashe Elementary School,  336 ,  4 ,1.2%,  51 ,15.2%,  239 ,71.1%
+Network 12,609827,Burnside Elementary Scholastic Academy,  412 ,  2 ,0.5%,  61 ,14.8%,  312 ,75.7%
+Network 12,609813,Charles S Brownell Elementary School,  191 ,  4 ,2.1%,  27 ,14.1%,  157 ,82.2%
+Network 12,609815,Edward A Bouchet Math & Science Academy ES,  653 ,  9 ,1.4%,  64 ,9.8%,  637 ,97.6%
+Network 12,609862,Edward Coles Elementary Language Academy,  351 ,  5 ,1.4%,  52 ,14.8%,  294 ,83.8%
+Network 12,610124,Harold Washington Elementary School,  326 ,  1 ,0.3%,  32 ,9.8%,  323 ,99.1%
+Network 12,610279,Henry O Tanner Elementary School,  336 ,  5 ,1.5%,  67 ,19.9%,  281 ,83.6%
+Network 12,610052,Horace Mann Elementary School,  332 ,  6 ,1.8%,  35 ,10.5%,  306 ,92.2%
+Network 12,610066,James E McDade Elementary Classical School,  176 ,  3 ,1.7%,  7 ,4.0%,  49 ,27.8%
+Network 12,610047,James Madison Elementary School,  206 ,  4 ,1.9%,  21 ,10.2%,  194 ,94.2%
+Network 12,610200,James N Thorp Elementary School,  288 ,  36 ,12.5%,  88 ,30.6%,  245 ,85.1%
+Network 12,610093,Jane A Neil Elementary School,  288 ,  11 ,3.8%,  109 ,37.9%,  252 ,87.5%
+Network 12,610130,John T Pirie Fine Arts & Academic Center ES,  269 ,  6 ,2.2%,  34 ,12.6%,  181 ,67.3%
+Network 12,610218,Joseph Warren Elementary School,  210 ,  5 ,2.4%,  27 ,12.9%,  194 ,92.4%
+Network 12,610152,Martha Ruggles Elementary School,  411 ,,,  44 ,10.7%,  311 ,75.7%
+Network 12,609961,Ninos Heroes Elementary Academic Center,  338 ,  34 ,10.1%,  32 ,9.5%,  278 ,82.3%
+Network 12,610115,Park Manor Elementary School,  294 ,  4 ,1.4%,  33 ,11.2%,  294 ,100.0%
+Network 12,610116,Parkside Elementary Community Academy,  253 ,  1 ,0.4%,  29 ,11.5%,  218 ,86.2%
+Network 12,610146,Paul Revere Elementary School,  241 ,,,  26 ,10.8%,  207 ,85.9%
+Network 12,610350,Robert A Black Magnet Elementary School,  432 ,  5 ,1.2%,  32 ,7.4%,  322 ,74.5%
+Network 12,610530,South Shore Fine Arts Academy,  325 ,  2 ,0.6%,  77 ,23.7%,  289 ,88.9%
+Network 12,610178,Theophilus Schmid Elementary School,  194 ,,,  29 ,15.0%,  156 ,80.4%
+Network 12,610002,Thomas Hoyne Elementary School,  234 ,,,  22 ,9.4%,  171 ,73.1%
+Network 12,610193,William K New Sullivan Elementary School,  517 ,  58 ,11.2%,  98 ,19.0%,  490 ,94.8%
+Network 13,609808,Alex Haley Elementary Academy,  543 ,  6 ,1.1%,  75 ,13.8%,  529 ,97.4%
+Network 13,609821,Burnham Elementary Inclusive Academy,  475 ,  4 ,0.8%,  73 ,15.4%,  440 ,92.6%
+Network 13,610004,Countee Cullen Elementary School,  201 ,  1 ,0.5%,  22 ,11.0%,  188 ,93.5%
+Network 13,610198,Douglas Taylor Elementary School,  395 ,  159 ,40.3%,  79 ,20.0%,  358 ,90.6%
+Network 13,610188,Dunne Technology Academy,  225 ,,,  30 ,13.3%,  176 ,78.2%
+Network 13,610132,Edgar Allan Poe Elementary Classical School,  194 ,  2 ,1.0%,  4 ,2.1%,  68 ,35.1%
+Network 13,610586,Edward E. Sadlowski Elementary School,  632 ,  161 ,25.5%,  110 ,17.4%,  547 ,86.6%
+Network 13,610315,Edward White Elementary Career Academy,  121 ,  3 ,2.5%,  17 ,14.1%,  105 ,86.8%
+Network 13,609917,Fernwood Elementary School,  284 ,,,  31 ,10.9%,  266 ,93.7%
+Network 13,609800,Frank I Bennett Elementary School,  324 ,,,  36 ,11.1%,  260 ,80.3%
+Network 13,610139,George M Pullman Elementary School,  383 ,  16 ,4.2%,  48 ,12.5%,  360 ,94.0%
+Network 13,609845,George Washington Carver Primary School,  391 ,  1 ,0.3%,  54 ,13.8%,  387 ,99.0%
+Network 13,610219,George Washington Elementary School,  739 ,  100 ,13.5%,  91 ,12.3%,  523 ,70.8%
+Network 13,609856,Henry Clay Elementary School,  559 ,  180 ,32.2%,  72 ,12.9%,  477 ,85.3%
+Network 13,609848,Ira F Aldridge Elementary School,  208 ,,,  34 ,16.4%,  194 ,93.3%
+Network 13,609943,Jesse Owens Elementary Community Academy,  369 ,  1 ,0.3%,  56 ,15.2%,  317 ,85.9%
+Network 13,610176,John D Shoop Math-Science Technical Academy ES,  449 ,  4 ,0.9%,  80 ,17.8%,  385 ,85.8%
+Network 13,610225,John Whistler Elementary School,  324 ,,,  76 ,23.5%,  282 ,87.0%
+Network 13,610199,Johnnie Colemon Elementary Academy,  233 ,  12 ,5.2%,  31 ,13.3%,  169 ,72.5%
+Network 13,610368,Langston Hughes Elementary School,  485 ,  18 ,3.7%,  120 ,24.7%,  405 ,83.5%
+Network 13,610128,Marcus Moziah Garvey Elementary School,  252 ,,,  23 ,9.1%,  247 ,98.0%
+Network 13,609935,Matthew Gallistel Elementary Language Academy,  668 ,  196 ,29.3%,  92 ,13.8%,  613 ,91.8%
+Network 13,610208,Mildred I Lavizzo Elementary School,  357 ,  4 ,1.1%,  61 ,17.1%,  321 ,89.9%
+Network 13,610086,Mount Vernon Elementary School,  247 ,,,  40 ,16.2%,  195 ,79.0%
+Network 13,609811,Orville T Bright Elementary School,  281 ,  50 ,17.8%,  69 ,24.6%,  255 ,90.8%
+Network 13,609902,Ralph H Metcalfe Elementary Community Academy,  347 ,,,  56 ,16.1%,  328 ,94.5%
+Network 13,610091,Ronald Brown Elementary Community Academy,  330 ,  2 ,0.6%,  60 ,18.2%,  281 ,85.2%
+Network 13,610295,Thomas J Higgins Elementary Community Academy,  253 ,  2 ,0.8%,  43 ,17.0%,  221 ,87.4%
+Network 13,609944,Virgil Grissom Elementary School,  326 ,  65 ,19.9%,  39 ,12.0%,  200 ,61.4%
+Network 13,609978,Wendell Smith Elementary School,  306 ,  1 ,0.3%,  41 ,13.4%,  272 ,88.9%
+Network 13,610364,William E B Dubois Elementary School,  243 ,,,  36 ,14.8%,  223 ,91.8%
+Network 14,609720,Albert G Lane Technical High School,"  4,502 ",  45 ,1.0%,  211 ,4.7%,"  1,796 ",39.9%
+Network 14,609729,Carl Schurz High School,"  1,533 ",  359 ,23.4%,  335 ,21.9%,"  1,377 ",89.8%
+Network 14,609732,Charles P Steinmetz College Preparatory HS,"  1,230 ",  296 ,24.1%,  234 ,19.0%,"  1,038 ",84.4%
+Network 14,610402,DeVry University Advantage Academy HS,  142 ,  5 ,3.5%,  11 ,7.8%,  93 ,65.5%
+Network 14,610564,Disney II Magnet High School,  773 ,  33 ,4.3%,  89 ,11.5%,  420 ,54.3%
+Network 14,610515,Disney II Magnet School,  433 ,  51 ,11.8%,  50 ,11.6%,  144 ,33.3%
+Network 14,609708,Edwin G. Foreman College and Career Academy,  703 ,  253 ,36.0%,  165 ,23.5%,  644 ,91.6%
+Network 14,609737,Friedrich W von Steuben Metropolitan Science HS,"  1,716 ",  75 ,4.4%,  113 ,6.6%,"  1,151 ",67.1%
+Network 14,609766,Jacqueline B Vaughn Occupational High School,  222 ,  91 ,41.0%,  222 ,100.0%,  167 ,75.2%
+Network 14,609716,Kelvyn Park High School,  412 ,  135 ,32.8%,  99 ,24.0%,  396 ,96.1%
+Network 14,609719,Lake View High School,"  1,296 ",  128 ,9.9%,  233 ,18.0%,  989 ,76.3%
+Network 14,609738,Lincoln Park High School,"  2,195 ",  62 ,2.8%,  209 ,9.5%,"  1,037 ",47.2%
+Network 14,609730,Nicholas Senn High School,"  1,559 ",  274 ,17.6%,  192 ,12.3%,"  1,195 ",76.7%
+Network 14,609744,Northside Learning Center High School,  236 ,  109 ,46.2%,  236 ,100.0%,  198 ,83.9%
+Network 14,609769,Ray Graham Training Center High School,  148 ,  58 ,39.2%,  148 ,100.0%,  140 ,94.6%
+Network 14,609733,Roger C Sullivan High School,  645 ,  273 ,42.3%,  161 ,25.0%,  563 ,87.3%
+Network 14,609724,Stephen T Mather High School,"  1,544 ",  420 ,27.2%,  239 ,15.5%,"  1,326 ",85.9%
+Network 14,609728,Theodore Roosevelt High School,  982 ,  342 ,34.8%,  205 ,20.9%,  885 ,90.1%
+Network 14,610394,Uplift Community High School,  123 ,  23 ,18.7%,  63 ,51.2%,  110 ,89.4%
+Network 14,609734,William Howard Taft High School,"  3,697 ",  357 ,9.7%,  461 ,12.5%,"  1,865 ",50.5%
+Network 15,610334,Al Raby High School,  271 ,  12 ,4.4%,  88 ,32.5%,  258 ,95.2%
+Network 15,610518,Austin College and Career Academy High School,  245 ,  2 ,0.8%,  74 ,30.2%,  227 ,92.7%
+Network 15,609679,Charles Allen Prosser Career Academy High School,"  1,238 ",  93 ,7.5%,  139 ,11.2%,"  1,125 ",90.9%
+Network 15,610245,Frederick A Douglass Academy High School,  58 ,  1 ,1.7%,  18 ,31.0%,  48 ,82.8%
+Network 15,609693,George Westinghouse College Prep,"  1,242 ",  41 ,3.3%,  88 ,7.1%,  977 ,78.7%
+Network 15,610383,Greater Lawndale High School For Social Justice,  321 ,  90 ,28.0%,  48 ,15.0%,  308 ,96.0%
+Network 15,609694,John Hancock College Preparatory High School,"  1,016 ",  4 ,0.4%,  23 ,2.3%,  811 ,79.8%
+Network 15,609723,John Marshall Metropolitan High School,  261 ,  2 ,0.8%,  73 ,28.0%,  237 ,90.8%
+Network 15,610524,Louisa May Alcott College Preparatory HS,  322 ,  29 ,9.0%,  66 ,20.5%,  240 ,74.5%
+Network 15,609722,Manley Career Academy High School,  84 ,,,  39 ,46.4%,  68 ,81.0%
+Network 15,609756,Marie Sklodowska Curie Metropolitan High School,"  2,907 ",  438 ,15.1%,  336 ,11.6%,"  2,608 ",89.7%
+Network 15,610385,Multicultural Academy of Scholarship,  218 ,  72 ,33.0%,  72 ,33.0%,  210 ,96.3%
+Network 15,609691,North-Grand High School,"  1,011 ",  275 ,27.2%,  197 ,19.5%,  946 ,93.6%
+Network 15,610529,Ogden International High School,  637 ,  19 ,3.0%,  73 ,11.5%,  427 ,67.0%
+Network 15,610561,Richard T Crane Medical Preparatory HS,  420 ,  7 ,1.7%,  36 ,8.6%,  359 ,85.5%
+Network 15,609759,Roberto Clemente Community Academy High School,  671 ,  110 ,16.4%,  175 ,26.1%,  615 ,91.7%
+Network 15,609750,Simpson Academy HS for Young Women,  37 ,  3 ,8.1%,  6 ,16.2%,  34 ,91.9%
+Network 15,609740,Wells Community Academy High School,  367 ,  48 ,13.1%,  97 ,26.4%,  332 ,90.5%
+Network 15,610101,William B Ogden Elementary School,"  1,111 ",  133 ,12.0%,  101 ,9.1%,  442 ,39.8%
+Network 15,610392,World Language Academy High School,  364 ,  115 ,31.6%,  62 ,17.0%,  344 ,94.5%
+Network 16,610513,Air Force Academy High School,  194 ,  15 ,7.7%,  21 ,10.8%,  164 ,84.5%
+Network 16,609748,Consuella B York Alternative HS,  136 ,  8 ,5.9%,  45 ,33.1%,  136 ,100.0%
+Network 16,609704,David G Farragut Career Academy High School,  570 ,  169 ,29.7%,  156 ,27.4%,  565 ,99.1%
+Network 16,609735,Edward Tilden Career Community Academy HS,  193 ,  32 ,16.6%,  63 ,32.6%,  184 ,95.3%
+Network 16,609682,Ellen H Richards Career Academy High School,  223 ,  62 ,27.8%,  46 ,20.6%,  213 ,95.5%
+Network 16,610592,Englewood STEM High School,  414 ,  12 ,2.9%,  95 ,23.0%,  382 ,92.3%
+Network 16,609709,Gage Park High School,  323 ,  96 ,29.7%,  70 ,21.7%,  314 ,97.2%
+Network 16,609741,Gurdon S Hubbard High School,"  1,634 ",  335 ,20.5%,  234 ,14.3%,"  1,551 ",94.9%
+Network 16,609718,John F Kennedy High School,"  1,549 ",  183 ,11.8%,  286 ,18.5%,"  1,074 ",69.3%
+Network 16,609725,Morgan Park High School,"  1,124 ",  5 ,0.4%,  155 ,13.8%,  938 ,83.5%
+Network 16,609783,Nancy B Jefferson Alternative HS,  170 ,  8 ,4.7%,  68 ,40.0%,  149 ,87.7%
+Network 16,609762,Percy L Julian High School,  385 ,  1 ,0.3%,  101 ,26.2%,  351 ,91.2%
+Network 16,610391,Robert Lindblom Math & Science Academy HS,"  1,362 ",  31 ,2.3%,  73 ,5.4%,  849 ,62.3%
+Network 16,610558,Sarah E. Goode STEM Academy,  931 ,  122 ,13.1%,  150 ,16.1%,  808 ,86.8%
+Network 16,610357,Spry Community Links High School,  102 ,  38 ,37.3%,  25 ,24.5%,  95 ,93.1%
+Network 16,609715,Thomas Kelly College Preparatory,"  1,778 ",  563 ,31.7%,  329 ,18.5%,"  1,640 ",92.2%
+Network 16,609698,William J Bogan High School,  749 ,  85 ,11.4%,  159 ,21.2%,  678 ,90.5%
+Network 16,609711,William Rainey Harper High School,  49 ,  1 ,2.0%,  14 ,28.6%,  45 ,91.8%
+Network 17,610323,Bowen High School,  241 ,  20 ,8.3%,  78 ,32.4%,  213 ,88.4%
+Network 17,610381,Bronzeville Scholastic Academy High School,  117 ,  3 ,2.6%,  30 ,25.6%,  103 ,88.0%
+Network 17,609754,Chicago Military Academy High School,  310 ,  21 ,6.8%,  25 ,8.1%,  226 ,72.9%
+Network 17,609674,Chicago Vocational Career Academy High School,  766 ,  15 ,2.0%,  216 ,28.2%,  707 ,92.3%
+Network 17,609705,Christian Fenger Academy High School,  263 ,,,  48 ,18.3%,  246 ,93.5%
+Network 17,610380,Daniel Hale Williams Prep School of Medicine,  126 ,  1 ,0.8%,  18 ,14.3%,  121 ,96.0%
+Network 17,609751,Dr  Martin Luther King  Jr  College Prep HS,  486 ,  8 ,1.7%,  63 ,13.0%,  400 ,82.3%
+Network 17,609712,Emil G Hirsch Metropolitan High School,  95 ,  2 ,2.1%,  39 ,41.1%,  91 ,95.8%
+Network 17,609761,George H Corliss High School,  280 ,  4 ,1.4%,  88 ,31.4%,  256 ,91.4%
+Network 17,609760,George Washington Carver Military Academy HS,  479 ,  25 ,5.2%,  31 ,6.5%,  428 ,89.4%
+Network 17,609739,George Washington High School,"  1,456 ",  236 ,16.2%,  243 ,16.7%,"  1,248 ",85.7%
+Network 17,609726,Gwendolyn Brooks College Preparatory Academy HS,"  1,007 ",  1 ,0.1%,  59 ,5.9%,  696 ,69.1%
+Network 17,609713,Hyde Park Academy High School,  747 ,  8 ,1.1%,  155 ,20.8%,  717 ,96.0%
+Network 17,609710,John M Harlan Community Academy High School,  300 ,  1 ,0.3%,  75 ,25.0%,  288 ,96.0%
+Network 17,609746,Kenwood Academy High School,"  2,033 ",  26 ,1.3%,  125 ,6.2%,"  1,190 ",58.5%
+Network 17,609692,Neal F Simeon Career Academy High School,"  1,338 ",  7 ,0.5%,  165 ,12.3%,"  1,212 ",90.6%
+Network 17,609676,Paul Laurence Dunbar Career Academy High School,  346 ,  10 ,2.9%,  85 ,24.6%,  323 ,93.4%
+Network 17,610547,South Shore Intl College Prep High School,  587 ,  4 ,0.7%,  51 ,8.7%,  486 ,82.8%
+Network 17,610587,Walter Henri Dyett High School for the Arts,  618 ,  3 ,0.5%,  88 ,14.2%,  528 ,85.4%
+AUSL,610339,Amos Alonzo Stagg Elementary School,  407 ,  10 ,2.5%,  58 ,14.3%,  400 ,98.3%
+AUSL,610106,Brian Piccolo Elementary Specialty School,  605 ,  184 ,30.4%,  92 ,15.2%,  544 ,89.9%
+AUSL,609883,Charles S Deneen Elementary School,  492 ,  2 ,0.4%,  67 ,13.6%,  436 ,88.6%
+AUSL,610248,Chicago Academy Elementary School,  562 ,  178 ,31.7%,  91 ,16.2%,  382 ,68.0%
+AUSL,610340,Chicago Academy High School,  569 ,  85 ,14.9%,  106 ,18.6%,  443 ,77.9%
+AUSL,610499,Collins Academy High School,  227 ,  1 ,0.4%,  63 ,27.8%,  221 ,97.4%
+AUSL,609885,Dewey Elementary Academy of Fine Arts,  338 ,  15 ,4.4%,  32 ,9.5%,  326 ,96.5%
+AUSL,610254,Dvorak Technology Academy,  371 ,,,  60 ,16.2%,  361 ,97.3%
+AUSL,610543,Eric Solorio Academy High School,"  1,222 ",  195 ,16.0%,  151 ,12.4%,"  1,131 ",92.6%
+AUSL,609900,George W Curtis Elementary School,  460 ,  5 ,1.1%,  50 ,10.9%,  421 ,91.5%
+AUSL,610103,Isabelle C O'Keeffe Elementary School,  582 ,  8 ,1.4%,  84 ,14.4%,  531 ,91.2%
+AUSL,610274,James Weldon Johnson Elementary School,  346 ,  1 ,0.3%,  42 ,12.1%,  339 ,98.0%
+AUSL,610263,John Foster Dulles Elementary School,  715 ,,,  74 ,10.4%,  601 ,84.1%
+AUSL,609971,John Harvard Elementary School of Excellence,  375 ,,,  55 ,14.7%,  354 ,94.4%
+AUSL,610000,Julia Ward Howe Elementary School of Excellence,  425 ,  6 ,1.4%,  82 ,19.3%,  405 ,95.3%
+AUSL,610036,Leslie Lewis Elementary School,  494 ,  72 ,14.6%,  56 ,11.3%,  384 ,77.7%
+AUSL,610053,Marquette Elementary School,"  1,118 ",  413 ,36.9%,  142 ,12.7%,  983 ,87.9%
+AUSL,609928,Melville W Fuller Elementary School,  357 ,  2 ,0.6%,  46 ,12.9%,  350 ,98.0%
+AUSL,610257,Morton School of Excellence,  245 ,  14 ,5.7%,  44 ,18.0%,  240 ,98.0%
+AUSL,609806,Myra Bradwell Communications Arts & Sciences ES,  488 ,  4 ,0.8%,  55 ,11.3%,  484 ,99.2%
+AUSL,610231,National Teachers Elementary Academy,  822 ,  24 ,2.9%,  58 ,7.1%,  543 ,66.1%
+AUSL,610389,Orr Academy High School,  233 ,  6 ,2.6%,  49 ,21.0%,  222 ,95.3%
+AUSL,610021,Pablo Casals Elementary School,  402 ,  73 ,18.2%,  41 ,10.2%,  386 ,96.0%
+AUSL,610282,Ronald E McNair Elementary School,  370 ,  26 ,7.0%,  88 ,23.8%,  330 ,89.2%
+AUSL,610396,Tarkington School of Excellence ES,  968 ,  330 ,34.1%,  129 ,13.3%,  898 ,92.8%
+AUSL,609991,Theodore Herzl Elementary School,  484 ,  5 ,1.0%,  82 ,16.9%,  460 ,95.0%
+AUSL,609851,Thomas Chalmers Specialty Elementary School,  315 ,  6 ,1.9%,  53 ,16.8%,  300 ,95.2%
+AUSL,609955,Walter Q Gresham Elementary School,  388 ,  1 ,0.3%,  55 ,14.2%,  346 ,89.2%
+AUSL,609727,Wendell Phillips Academy High School,  612 ,  3 ,0.5%,  123 ,20.1%,  552 ,90.2%
+AUSL,610172,William T Sherman Elementary School,  235 ,  5 ,2.1%,  33 ,14.0%,  231 ,98.3%
+AUSL,609844,William W Carter Elementary School,  359 ,,,  36 ,10.0%,  346 ,96.4%
+ISP,610038,Abraham Lincoln Elementary School,"  1,002 ",  52 ,5.2%,  48 ,4.8%,  127 ,12.7%
+ISP,609993,Agustin Lara Elementary Academy,  409 ,  236 ,57.7%,  67 ,16.4%,  390 ,95.4%
+ISP,610098,Alfred Nobel Elementary School,  703 ,  287 ,40.8%,  81 ,11.5%,  636 ,90.5%
+ISP,609837,Andrew Carnegie Elementary School,  597 ,  3 ,0.5%,  70 ,11.7%,  469 ,78.6%
+ISP,609820,Augustus H Burley Elementary School,  554 ,  9 ,1.6%,  60 ,10.8%,  69 ,12.5%
+ISP,609786,Avalon Park Elementary School,  261 ,,,  31 ,11.9%,  229 ,87.7%
+ISP,610563,Back of the Yards IB HS,"  1,072 ",  142 ,13.3%,  78 ,7.3%,  991 ,92.4%
+ISP,609922,Belmont-Cragin Elementary School,  471 ,  291 ,61.8%,  86 ,18.3%,  430 ,91.3%
+ISP,609764,Benito Juarez Community Academy High School,"  1,734 ",  395 ,22.8%,  284 ,16.4%,"  1,619 ",93.4%
+ISP,610039,Carl von Linne Elementary School,  674 ,  203 ,30.1%,  95 ,14.1%,  450 ,66.8%
+ISP,610148,Cesar E Chavez Multicultural Academic Center ES,  909 ,  411 ,45.2%,  86 ,9.5%,  895 ,98.5%
+ISP,610366,Charles H Wacker Elementary School,  247 ,  2 ,0.8%,  25 ,10.1%,  198 ,80.2%
+ISP,609996,Charles N Holden Elementary School,  451 ,  107 ,23.7%,  46 ,10.2%,  345 ,76.5%
+ISP,609833,Charles P Caldwell Academy of Math & Science ES,  270 ,  1 ,0.4%,  34 ,12.6%,  206 ,76.3%
+ISP,609753,Chicago High School for Agricultural Sciences,  810 ,  14 ,1.7%,  169 ,20.9%,  365 ,45.1%
+ISP,609899,Christian Ebinger Elementary School,  871 ,  37 ,4.3%,  125 ,14.4%,  121 ,13.9%
+ISP,609863,Christopher Columbus Elementary School,  263 ,  86 ,32.7%,  17 ,6.5%,  180 ,68.4%
+ISP,610170,Columbia Explorers Elementary Academy,  926 ,  335 ,36.2%,  114 ,12.3%,  863 ,93.2%
+ISP,609870,Daniel J Corkery Elementary School,  433 ,  211 ,48.7%,  60 ,13.9%,  391 ,90.3%
+ISP,609835,Daniel R Cameron Elementary School,  708 ,  235 ,33.2%,  98 ,13.8%,  683 ,96.5%
+ISP,609852,Eliza Chappell Elementary School,  588 ,  107 ,18.2%,  94 ,16.0%,  322 ,54.8%
+ISP,609973,Emiliano Zapata Elementary Academy,  680 ,  372 ,54.7%,  119 ,17.5%,  641 ,94.3%
+ISP,610203,Enrico Tonti Elementary School,  939 ,  384 ,40.9%,  110 ,11.7%,  811 ,86.4%
+ISP,610541,Federico Garcia Lorca Elementary School,  763 ,  353 ,46.3%,  116 ,15.2%,  638 ,83.6%
+ISP,610120,Ferdinand Peck Elementary School,  878 ,  497 ,56.6%,  101 ,11.5%,  625 ,71.2%
+ISP,609939,Frank L Gillespie Elementary School,  434 ,  4 ,0.9%,  70 ,16.1%,  338 ,77.9%
+ISP,609958,Frank W Gunsaulus Elementary Scholastic Academy,  763 ,  328 ,43.0%,  89 ,11.7%,  661 ,86.6%
+ISP,609926,Franklin Elementary Fine Arts Center,  370 ,  12 ,3.2%,  33 ,8.9%,  157 ,42.4%
+ISP,609779,George Armstrong International Studies ES,"  1,257 ",  473 ,37.6%,  135 ,10.7%,"  1,108 ",88.2%
+ISP,609849,George F Cassell Elementary School,  391 ,  13 ,3.3%,  81 ,20.7%,  78 ,20.0%
+ISP,609795,George Rogers Clark Elementary School,  210 ,  25 ,11.9%,  17 ,8.1%,  165 ,78.6%
+ISP,609985,Helen M Hefferan Elementary School,  296 ,,,  32 ,10.8%,  280 ,94.6%
+ISP,610122,Helen Peirce International Studies ES,"  1,084 ",  194 ,17.9%,  134 ,12.4%,  558 ,51.5%
+ISP,610040,Henry D Lloyd Elementary School,  938 ,  590 ,62.9%,  122 ,13.0%,  843 ,89.9%
+ISP,610390,Hyman G Rickover Naval Academy High School,  396 ,  34 ,8.6%,  46 ,11.6%,  333 ,84.1%
+ISP,610384,Infinity Math Science and Technology High School,  384 ,  68 ,17.7%,  52 ,13.5%,  367 ,95.6%
+ISP,610213,James Wadsworth Elementary School,  553 ,  2 ,0.4%,  65 ,11.8%,  509 ,92.0%
+ISP,610217,James Ward Elementary School,  576 ,  252 ,43.8%,  41 ,7.1%,  451 ,78.3%
+ISP,609772,Jane Addams Elementary School,  695 ,  258 ,37.1%,  76 ,10.9%,  557 ,80.1%
+ISP,610173,Jesse Sherwood Elementary School,  297 ,  6 ,2.0%,  63 ,21.2%,  283 ,95.3%
+ISP,609789,John Barry Elementary School,  568 ,  312 ,54.9%,  84 ,14.8%,  446 ,78.5%
+ISP,609829,John C Burroughs Elementary School,  439 ,  176 ,40.1%,  49 ,11.2%,  388 ,88.4%
+ISP,609866,John C Coonley Elementary School,"  1,028 ",  41 ,4.0%,  106 ,10.3%,  138 ,13.4%
+ISP,609898,John F Eberhart Elementary School,"  1,241 ",  519 ,41.8%,  145 ,11.7%,"  1,171 ",94.4%
+ISP,610026,John H Kinzie Elementary School,  690 ,  114 ,16.5%,  146 ,21.2%,  399 ,57.8%
+ISP,610054,John L Marsh Elementary School,  773 ,  289 ,37.4%,  110 ,14.2%,  666 ,86.2%
+ISP,610111,John Palmer Elementary School,  733 ,  265 ,36.2%,  111 ,15.1%,  534 ,72.9%
+ISP,609950,Josefa Ortiz De Dominguez Elementary School,  490 ,  283 ,57.8%,  84 ,17.1%,  460 ,93.9%
+ISP,610015,Joseph Jungman Elementary School,  257 ,  120 ,46.7%,  82 ,31.9%,  226 ,87.9%
+ISP,610129,Josiah Pickard Elementary School,  407 ,  166 ,40.8%,  72 ,17.7%,  380 ,93.4%
+ISP,610520,LaSalle II Magnet Elementary School,  583 ,  59 ,10.1%,  72 ,12.4%,  186 ,31.9%
+ISP,610024,Lazaro Cardenas Elementary School,"  1,079 ",  368 ,34.1%,  180 ,16.7%,"  1,016 ",94.2%
+ISP,610298,Lenart Elementary Regional Gifted Center,  295 ,,,  10 ,3.4%,  81 ,27.5%
+ISP,609834,Little Village Elementary School,  737 ,  420 ,57.0%,  94 ,12.8%,  699 ,94.8%
+ISP,609773,Louis A Agassiz Elementary School,  503 ,  23 ,4.6%,  83 ,16.5%,  177 ,35.2%
+ISP,610117,Louis Pasteur Elementary School,  598 ,  219 ,36.6%,  69 ,11.5%,  529 ,88.5%
+ISP,609817,Lyman A Budlong Elementary School,  694 ,  271 ,39.1%,  73 ,10.5%,  519 ,74.8%
+ISP,610197,Mancel Talcott Elementary School,  463 ,  201 ,43.4%,  91 ,19.7%,  342 ,73.9%
+ISP,610544,Mariano Azuela Elementary School,  878 ,  274 ,31.2%,  97 ,11.1%,  729 ,83.0%
+ISP,609780,Marine Leadership Academy at Ames,  831 ,  175 ,21.1%,  81 ,9.8%,  794 ,95.6%
+ISP,610081,Mark Sheridan Math & Science Academy,  553 ,  41 ,7.4%,  40 ,7.2%,  256 ,46.3%
+ISP,610177,Mark Skinner Elementary School,"  1,241 ",  57 ,4.6%,  67 ,5.4%,  218 ,17.6%
+ISP,610539,Marvin Camras Elementary School,  956 ,  401 ,42.0%,  153 ,16.0%,  802 ,83.9%
+ISP,610312,Mary E McDowell Elementary School,  159 ,  1 ,0.6%,  16 ,10.1%,  139 ,87.4%
+ISP,610244,Michele Clark Academic Prep Magnet High School,  535 ,  10 ,1.9%,  98 ,18.3%,  516 ,96.5%
+ISP,610082,Mount Greenwood Elementary School,"  1,235 ",  8 ,0.7%,  140 ,11.3%,  158 ,12.8%
+ISP,609749,Northside College Preparatory High School,"  1,078 ",  11 ,1.0%,  53 ,4.9%,  464 ,43.0%
+ISP,610201,Ole A Thorp Elementary Scholastic Academy,  849 ,  82 ,9.7%,  138 ,16.3%,  363 ,42.8%
+ISP,610386,Peace & Education Coalition HS,  103 ,  24 ,23.3%,  27 ,26.2%,  95 ,92.2%
+ISP,610147,Philip Rogers Elementary School,  744 ,  258 ,34.7%,  116 ,15.6%,  527 ,70.8%
+ISP,610304,Phoenix Military Academy High School,  559 ,  44 ,7.9%,  39 ,7.0%,  500 ,89.5%
+ISP,609842,Rachel Carson Elementary School,  968 ,  599 ,61.9%,  75 ,7.8%,  896 ,92.6%
+ISP,609903,Richard Edwards Elementary School,"  1,417 ",  751 ,53.0%,  203 ,14.3%,"  1,211 ",85.5%
+ISP,610291,Richard Henry Lee Elementary School,  787 ,  198 ,25.2%,  108 ,13.7%,  696 ,88.4%
+ISP,609695,Roald Amundsen High School,"  1,384 ",  133 ,9.6%,  215 ,15.5%,  956 ,69.1%
+ISP,610250,Ruben Salazar Elementary Bilingual Center,  339 ,  121 ,35.7%,  49 ,14.5%,  255 ,75.2%
+ISP,610027,Rudyard Kipling Elementary School,  270 ,,,  32 ,11.9%,  232 ,85.9%
+ISP,609995,Rufus M Hitch Elementary School,  583 ,  112 ,19.2%,  77 ,13.2%,  305 ,52.3%
+ISP,609990,South Loop Elementary School,  836 ,  63 ,7.5%,  57 ,6.8%,  213 ,25.5%
+ISP,609745,Southside Occupational Academy High School,  329 ,  68 ,20.7%,  329 ,100.0%,  296 ,90.0%
+ISP,610548,STEM Magnet Academy,  449 ,  34 ,7.6%,  32 ,7.1%,  167 ,37.2%
+ISP,610249,Talman Elementary School,  388 ,  209 ,53.9%,  77 ,19.9%,  355 ,91.5%
+ISP,609895,Turner-Drew Elementary Language Academy,  223 ,,,  30 ,13.5%,  164 ,73.5%
+ISP,610504,Velma F Thomas Early Childhood Center,  151 ,  46 ,30.5%,  53 ,35.1%,  93 ,61.6%
+ISP,609680,Walter Payton College Preparatory High School,"  1,220 ",  8 ,0.7%,  51 ,4.2%,  347 ,28.4%
+ISP,610179,Washington D Smyser Elementary School,  843 ,  197 ,23.4%,  82 ,9.7%,  579 ,68.7%
+ISP,610100,West Park Elementary Academy,  536 ,  209 ,39.0%,  71 ,13.3%,  436 ,81.3%
+ISP,610542,West Ridge Elementary School,  760 ,  309 ,40.7%,  95 ,12.5%,  649 ,85.4%
+ISP,609755,Whitney M Young Magnet High School,"  2,200 ",  44 ,2.0%,  125 ,5.7%,  807 ,36.7%
+ISP,609945,William C. Goudy Technology Academy,  638 ,  246 ,38.6%,  77 ,12.1%,  509 ,79.8%
+ISP,609678,William Jones College Preparatory High School,"  1,970 ",  20 ,1.0%,  99 ,5.0%,  670 ,34.0%
+Charter,400009,Academy for Global Citizenship Charter School,  467 ,  155 ,33.2%,  59 ,12.6%,  306 ,65.5%
+Charter,400081,Acero Charter Schools - Bartolomé de las Casas,  263 ,  125 ,47.5%,  34 ,12.9%,  218 ,82.9%
+Charter,400153,Acero Charter Schools - Brighton Park,  548 ,  302 ,55.1%,  58 ,10.6%,  503 ,91.8%
+Charter,400082,Acero Charter Schools - Carlos Fuentes,  493 ,  215 ,43.6%,  66 ,13.4%,  431 ,87.4%
+Charter,400114,Acero Charter Schools - Esmeralda Santiago,  252 ,  133 ,52.8%,  44 ,17.5%,  220 ,87.3%
+Charter,400112,Acero Charter Schools - Jovita Idar,  542 ,  271 ,50.0%,  46 ,8.5%,  476 ,87.8%
+Charter,400085,Acero Charter Schools - Major Hector P. Garcia MD,  618 ,  191 ,30.9%,  111 ,18.0%,  565 ,91.4%
+Charter,400083,Acero Charter Schools - Octavio Paz Campus,  248 ,  143 ,57.7%,  29 ,11.7%,  237 ,95.6%
+Charter,400089,Acero Charter Schools - Officer Donald J. Marquez,  542 ,  312 ,57.6%,  72 ,13.3%,  497 ,91.7%
+Charter,400080,Acero Charter Schools - PFC Omar E. Torres,  590 ,  312 ,52.9%,  58 ,9.8%,  504 ,85.4%
+Charter,400120,Acero Charter Schools - Roberto Clemente,  513 ,  236 ,46.0%,  58 ,11.3%,  461 ,89.9%
+Charter,400084,Acero Charter Schools - Rufino Tamayo,  286 ,  171 ,59.8%,  43 ,15.0%,  259 ,90.6%
+Charter,400101,Acero Charter Schools - Sandra Cisneros,  500 ,  247 ,49.4%,  61 ,12.2%,  471 ,94.2%
+Charter,400121,Acero Charter Schools - Sor Juana Inés de la Cruz,  590 ,  240 ,40.7%,  90 ,15.3%,  519 ,88.0%
+Charter,400079,Acero Charter Schools - SPC Daniel Zizumbo,  621 ,  286 ,46.1%,  57 ,9.2%,  535 ,86.2%
+Charter,400149,Acero Charter Schools - Victoria Soto,  518 ,  177 ,34.2%,  87 ,16.8%,  477 ,92.1%
+Charter,400011,Alain Locke Charter School,  434 ,,,  61 ,14.1%,  370 ,85.3%
+Charter,400181,Art in Motion Charter School,  209 ,,,  37 ,17.7%,  135 ,64.6%
+Charter,400060,Asian Human Services - Passages Charter School,  384 ,  162 ,42.2%,  30 ,7.8%,  307 ,80.0%
+Charter,400172,ASPIRA Business and Finance,  647 ,  208 ,32.2%,  140 ,21.6%,  499 ,77.1%
+Charter,400013,ASPIRA Charter School - Early College High School,  331 ,  121 ,36.6%,  89 ,26.9%,  312 ,94.3%
+Charter,400017,ASPIRA Charter School - Haugan Middle School,  207 ,  86 ,41.6%,  38 ,18.4%,  185 ,89.4%
+Charter,400115,Catalyst - Maria Charter School,"  1,088 ",  229 ,21.1%,  165 ,15.2%,  997 ,91.6%
+Charter,400021,Catalyst Elementary Charter School - Circle Rock,  521 ,,,  53 ,10.2%,  408 ,78.3%
+Charter,400161,Chicago Collegiate Charter School,  349 ,  2 ,0.6%,  63 ,18.1%,  320 ,91.7%
+Charter,400035,Chicago Math and Science Academy Charter School,  597 ,  153 ,25.6%,  72 ,12.1%,  532 ,89.1%
+Charter,400036,Chicago Virtual Charter School,  523 ,  32 ,6.1%,  67 ,12.8%,  366 ,70.0%
+Charter,400159,Christopher House Charter School,  458 ,  161 ,35.2%,  69 ,15.1%,  389 ,84.9%
+Charter,400023,CICS - Avalon/South Shore,  449 ,  5 ,1.1%,  51 ,11.4%,  390 ,86.9%
+Charter,400024,CICS - Basil,  603 ,  53 ,8.8%,  77 ,12.8%,  534 ,88.6%
+Charter,400025,CICS - Bucktown,  687 ,  148 ,21.5%,  79 ,11.5%,  502 ,73.1%
+Charter,400113,CICS - ChicagoQuest North,  143 ,  2 ,1.4%,  34 ,23.8%,  134 ,93.7%
+Charter,400027,CICS - Irving Park,  537 ,  155 ,28.9%,  77 ,14.3%,  332 ,61.8%
+Charter,400092,CICS - Lloyd Bond,  351 ,  1 ,0.3%,  33 ,9.4%,  339 ,96.6%
+Charter,400033,CICS - Longwood,"  1,297 ",  13 ,1.0%,  242 ,18.7%,"  1,153 ",88.9%
+Charter,400026,CICS - Loomis Primary,  523 ,  3 ,0.6%,  39 ,7.5%,  452 ,86.4%
+Charter,400034,CICS - Northtown,  903 ,  174 ,19.3%,  219 ,24.3%,  716 ,79.3%
+Charter,400028,CICS - Prairie,  423 ,  101 ,23.9%,  58 ,13.7%,  393 ,92.9%
+Charter,400032,CICS - Ralph Ellison,  244 ,  1 ,0.4%,  62 ,25.4%,  209 ,85.7%
+Charter,400029,CICS - Washington Park,  465 ,,,  45 ,9.7%,  432 ,92.9%
+Charter,400030,CICS - West Belden,  538 ,  219 ,40.7%,  60 ,11.2%,  444 ,82.5%
+Charter,400031,CICS - Wrightwood,  705 ,  6 ,0.9%,  72 ,10.2%,  588 ,83.4%
+Charter,400094,EPIC Academy Charter High School,  521 ,  70 ,13.4%,  110 ,21.1%,  476 ,91.4%
+Charter,400039,Erie Elementary Charter School,  419 ,  176 ,42.0%,  79 ,18.9%,  324 ,77.3%
+Charter,400171,Foundations College Preparatory Charter School,  202 ,  2 ,1.0%,  46 ,22.8%,  190 ,94.1%
+Charter,400040,Frazier Preparatory Academy Charter School,  244 ,,,  20 ,8.2%,  227 ,93.0%
+Charter,400168,Great Lakes Academy Charter School,  418 ,  39 ,9.3%,  50 ,12.0%,  294 ,70.3%
+Charter,400167,Horizon Science Academy Southwest Chicago Charter,  743 ,  206 ,27.7%,  87 ,11.7%,  693 ,93.3%
+Charter,400104,Instituto Health Sciences Career Academy,  650 ,  214 ,32.9%,  131 ,20.2%,  632 ,97.2%
+Charter,400162,Intrinsic Charter School,"  1,025 ",  189 ,18.4%,  200 ,19.5%,  875 ,85.4%
+Charter,400146,KIPP Academy Chicago Campus,  518 ,  1 ,0.2%,  80 ,15.4%,  490 ,94.6%
+Charter,400044,KIPP Ascend Charter School,  930 ,  7 ,0.8%,  121 ,13.0%,  856 ,92.0%
+Charter,400163,KIPP Chicago Charter School - KIPP Bloom,  614 ,  10 ,1.6%,  84 ,13.7%,  534 ,87.0%
+Charter,400180,KIPP One Academy,  877 ,  132 ,15.1%,  97 ,11.1%,  816 ,93.0%
+Charter,400047,L.E.A.R.N. - Charles and Dorothy Campbell Campus,  439 ,  6 ,1.4%,  44 ,10.0%,  393 ,89.5%
+Charter,400048,L.E.A.R.N. - Excel Campus,  459 ,  7 ,1.5%,  58 ,12.6%,  373 ,81.3%
+Charter,400111,L.E.A.R.N. - Hunter Perkins Campus,  480 ,  1 ,0.2%,  35 ,7.3%,  390 ,81.3%
+Charter,400165,L.E.A.R.N. - Middle School Campus,  285 ,  3 ,1.1%,  43 ,15.1%,  214 ,75.1%
+Charter,400046,L.E.A.R.N. - Romano Butler Campus,  530 ,  1 ,0.2%,  43 ,8.1%,  473 ,89.3%
+Charter,400107,L.E.A.R.N. - South Chicago Campus,  436 ,  49 ,11.2%,  39 ,8.9%,  358 ,82.1%
+Charter,400151,L.E.A.R.N. Charter School - 7th Campus,  178 ,  1 ,0.6%,  21 ,11.8%,  155 ,87.1%
+Charter,400049,Legacy Charter School,  469 ,  4 ,0.9%,  59 ,12.6%,  412 ,87.9%
+Charter,400119,Legal Prep Charter Academy,  300 ,,,  67 ,22.3%,  281 ,93.7%
+Charter,400178,Moving Everest Charter School,  532 ,  10 ,1.9%,  56 ,10.5%,  433 ,81.4%
+Charter,400050,Namaste Charter School,  476 ,  219 ,46.0%,  86 ,18.1%,  347 ,72.9%
+Charter,400157,Noble - Baker College Prep,  199 ,  28 ,14.1%,  43 ,21.6%,  187 ,94.0%
+Charter,400156,Noble - Butler College Prep,  623 ,  15 ,2.4%,  128 ,20.6%,  569 ,91.3%
+Charter,400097,Noble - Chicago Bulls College Prep,"  1,168 ",  134 ,11.5%,  194 ,16.6%,"  1,015 ",86.9%
+Charter,400118,Noble - DRW College Prep,  284 ,  1 ,0.4%,  95 ,33.5%,  263 ,92.6%
+Charter,400052,Noble - Gary Comer College Prep,"  1,163 ",  12 ,1.0%,  192 ,16.5%,  981 ,84.4%
+Charter,400053,Noble - Golder College Prep,  648 ,  100 ,15.4%,  110 ,17.0%,  590 ,91.1%
+Charter,400117,Noble - Hansberry College Prep,  493 ,  7 ,1.4%,  98 ,19.9%,  412 ,83.6%
+Charter,400169,Noble - ITW David Speer Academy,"  1,019 ",  162 ,15.9%,  179 ,17.6%,  922 ,90.5%
+Charter,400106,Noble - John and Eunice Johnson College Prep,  643 ,  3 ,0.5%,  154 ,24.0%,  588 ,91.5%
+Charter,400098,Noble - Muchin College Prep,  978 ,  95 ,9.7%,  122 ,12.5%,  823 ,84.2%
+Charter,400051,Noble - Noble College Prep,  691 ,  103 ,14.9%,  107 ,15.5%,  580 ,83.9%
+Charter,400054,Noble - Pritzker College Prep,  979 ,  158 ,16.1%,  107 ,10.9%,  928 ,94.8%
+Charter,400055,Noble - Rauner College Prep,  626 ,  80 ,12.8%,  102 ,16.3%,  519 ,82.9%
+Charter,400056,Noble - Rowe-Clark Math and Science Academy,  418 ,  28 ,6.7%,  106 ,25.4%,  376 ,90.0%
+Charter,400170,Noble - The Noble Academy,  485 ,  60 ,12.4%,  76 ,15.7%,  410 ,84.5%
+Charter,400057,Noble - UIC College Prep,  969 ,  109 ,11.3%,  141 ,14.6%,  818 ,84.4%
+Charter,400179,Noble Mansueto High School,"  1,034 ",  268 ,25.9%,  185 ,17.9%,  947 ,91.6%
+Charter,400058,North Lawndale College Prep - Christiana,  333 ,  1 ,0.3%,  61 ,18.3%,  283 ,85.0%
+Charter,400059,North Lawndale College Prep - Collins,  410 ,  2 ,0.5%,  69 ,16.8%,  372 ,90.7%
+Charter,400062,Perspectives - High School of Technology,  315 ,  1 ,0.3%,  67 ,21.3%,  276 ,87.6%
+Charter,400061,Perspectives - Leadership Academy,  515 ,  1 ,0.2%,  75 ,14.6%,  465 ,90.3%
+Charter,400066,Perspectives - Math and Science Academy,  507 ,  8 ,1.6%,  103 ,20.3%,  449 ,88.6%
+Charter,400064,Perspectives - Rodney D. Joslin,  384 ,  3 ,0.8%,  70 ,18.2%,  339 ,88.3%
+Charter,400069,Polaris Charter Academy,  360 ,  7 ,1.9%,  58 ,16.1%,  330 ,91.7%
+Charter,400071,Providence Englewood Charter School,  444 ,  1 ,0.2%,  46 ,10.4%,  360 ,81.1%
+Charter,400096,Rowe Elementary Charter School,"  1,046 ",  240 ,22.9%,  139 ,13.3%,  866 ,82.8%
+Charter,400116,The Montessori School of Englewood Charter,  302 ,  13 ,4.3%,  55 ,18.2%,  270 ,89.4%
+Charter,400075,University of Chicago - Donoghue,  501 ,  6 ,1.2%,  39 ,7.8%,  381 ,76.1%
+Charter,400076,University of Chicago - North Kenwood/Oakland,  327 ,  5 ,1.5%,  22 ,6.7%,  212 ,64.8%
+Charter,400077,University of Chicago - Woodlawn,  620 ,  6 ,1.0%,  79 ,12.7%,  481 ,77.6%
+Charter,400105,Urban Prep Academy for Young Men - Bronzeville,  301 ,,,  83 ,27.6%,  247 ,82.1%
+Charter,400086,Urban Prep Academy for Young Men - Englewood,  235 ,,,  58 ,24.7%,  190 ,80.9%
+Contract,400022,Chicago High School for the Arts (ChiArts),  618 ,  2 ,0.3%,  42 ,6.8%,  270 ,43.7%
+Contract,400091,Chicago Technology Academy High School,  315 ,  8 ,2.5%,  77 ,24.4%,  277 ,87.9%
+Contract,400043,Hope Institute Learning Academy,  282 ,  13 ,4.6%,  91 ,32.3%,  250 ,88.7%
+Contract,400068,Plato Learning Academy,  228 ,,,  23 ,10.1%,  228 ,100.0%
+Options,400147,Camelot - Chicago Excel Academy,  302 ,,,  65 ,21.5%,  271 ,89.7%
+Options,610565,Camelot Excel - Englewood HS,  264 ,  2 ,0.8%,  42 ,15.9%,  225 ,85.2%
+Options,400175,Camelot Excel - Southshore HS,  252 ,  5 ,2.0%,  41 ,16.3%,  209 ,82.9%
+Options,400176,Camelot Excel - Southwest HS,  104 ,  7 ,6.7%,  35 ,33.7%,  82 ,78.9%
+Options,610572,Camelot Safe Elementary,  7 ,,,  2 ,28.6%,  6 ,85.7%
+Options,610573,Camelot Safe HS,  6 ,  1 ,16.7%,  2 ,33.3%,  5 ,83.3%
+Options,400164,Instituto - Justice Lozano,  97 ,  30 ,30.9%,  19 ,19.6%,  93 ,95.9%
+Options,400137,Little Black Pearl Art and Design Academy,  130 ,,,  29 ,22.3%,  101 ,77.7%
+Options,610593,Ombudsman Chicago - Roseland HS,  99 ,,,  18 ,18.2%,  65 ,65.7%
+Options,610570,Ombudsman Chicago - South,  454 ,  39 ,8.6%,  79 ,17.4%,  405 ,89.2%
+Options,610569,Ombudsman Chicago- Northwest,  254 ,  44 ,17.3%,  56 ,22.1%,  217 ,85.4%
+Options,610571,Ombudsman Chicago- West,  321 ,  26 ,8.1%,  72 ,22.4%,  280 ,87.2%
+Options,610594,Pathways in Education - Humboldt Park HS,  31 ,  5 ,16.1%,  6 ,19.4%,  22 ,71.0%
+Options,610557,Pathways in Education- Ashburn,  301 ,  35 ,11.6%,  47 ,15.6%,  266 ,88.4%
+Options,610568,Pathways in Education- Avondale,  316 ,  44 ,13.9%,  56 ,17.7%,  263 ,83.2%
+Options,400173,Pathways in Education- Brighton Park,  400 ,  73 ,18.3%,  40 ,10.0%,  350 ,87.5%
+Options,400123,YCCS- Academy of Scholastic Achievement HS,  168 ,  1 ,0.6%,  34 ,20.2%,  131 ,78.0%
+Options,400133,YCCS- Innovations HS of Arts Integration,  428 ,  4 ,0.9%,  95 ,22.2%,  344 ,80.4%
+Options,400124,YCCS- McKinley Lakeside Leadership HS,  170 ,,,  48 ,28.2%,  139 ,81.8%
+Options,400125,"YCCS-ASPIRA,Antonia Pantoja Alternative HS",  186 ,  40 ,21.5%,  39 ,21.0%,  132 ,71.0%
+Options,400126,YCCS-Association House HS,  155 ,  27 ,17.4%,  50 ,32.3%,  129 ,83.2%
+Options,400127,YCCS-Austin Career Education Center HS,  83 ,  3 ,3.6%,  16 ,19.3%,  68 ,81.9%
+Options,400128,YCCS-CCA Academy HS,  145 ,,,  41 ,28.3%,  127 ,87.6%
+Options,400150,YCCS-Chatham AcademyHS,  190 ,,,  44 ,23.2%,  149 ,78.4%
+Options,400130,YCCS-Community Youth Development Institute HS,  130 ,,,  36 ,27.7%,  95 ,73.1%
+Options,400131,YCCS-Dr. Pedro Albizu Campos Puerto Rican HS,  203 ,  31 ,15.3%,  59 ,29.1%,  181 ,89.2%
+Options,400134,YCCS-Jane Addams Alternative HS,  217 ,  26 ,12.0%,  40 ,18.4%,  150 ,69.1%
+Options,400135,YCCS-Latino Youth Alternative HS,  201 ,  54 ,26.9%,  38 ,18.9%,  146 ,72.6%
+Options,400136,YCCS-Olive Harvey Middle College HS,  110 ,  8 ,7.3%,  22 ,20.0%,  91 ,82.7%
+Options,400129,YCCS-Progressive Leadership Academy,  186 ,,,  42 ,22.6%,  144 ,77.4%
+Options,400139,YCCS-Sullivan House Alternative HS,  300 ,  3 ,1.0%,  62 ,20.7%,  251 ,83.7%
+Options,400141,YCCS-Truman Middle College HS,  209 ,  35 ,16.8%,  27 ,12.9%,  132 ,63.2%
+Options,400144,YCCS-West HS,  168 ,  11 ,6.6%,  31 ,18.5%,  138 ,82.1%
+Options,400143,YCCS-West Town Acad Alternative HS,  159 ,  11 ,6.9%,  33 ,20.8%,  143 ,89.9%
+Options,400145,YCCS-Youth Connection Leadership Acad HS,  169 ,,,  38 ,22.5%,  144 ,85.2%
+,,,,,,,,,
+"Note: ""Economically Disadvantaged Students"" come from families whose income is within 185 percent of the federal poverty line. The District formerly referred to these students as ""Free or Reduced Lunch Eligible Students,"" and adopted the new term after the federal government, under the Community Eligibility Provision, funded breakfasts and lunches for all students if more than 40 percent of students qualify. ",,,,,,,,,
+"Note: ""Bilingual"" refers to the state defintions of students who are English learners.",,,,,,,,,
+"Note: The EL data set was updated on October 10, 2020 to align with the State's definition of EL.",,,,,,,,,
